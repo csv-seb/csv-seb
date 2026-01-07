@@ -4,4 +4,4 @@ I specialize in translating unstructured data into visual insights. Formerly a S
 
 🔧 Tech: Python | SQL | Computer Vision | NLP 
 
-📍 Location: Mexico City"
+📍 Location: Mexico City
