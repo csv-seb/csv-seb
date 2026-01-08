@@ -2,6 +2,6 @@ Hi, I'm Sebastian. I am a Data Scientist with a background in Structural Enginee
 
 I specialize in translating unstructured data into visual insights. Formerly a Senior BIM Lead, I now apply my obsession with structure and detail to building robust Machine Learning pipelines focusing on human-centric AI solutions.
 
-🔧 Tech: Python | SQL | Computer Vision | NLP 
+🔧 Tech: Python | SQL | Machine Learning | Computer Vision | NLP 
 
 📍 Location: Mexico City
